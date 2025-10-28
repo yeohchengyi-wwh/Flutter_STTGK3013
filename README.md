@@ -58,7 +58,7 @@ Basic Validation Approach
 
 •	This will ensure that only valid numeric values are used in the formula:
 
-				Total of Loads=  (Number of Clothes)/(Machine Capacity)   
+		Total of Loads=  (Number of Clothes)/(Machine Capacity)   
 
         Total Water Used=Total of Loads x Water per Load
 
